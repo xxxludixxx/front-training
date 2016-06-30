@@ -4,15 +4,15 @@ body {
     color: #000;
 }
 
-.container {
+.wrapper {
     background-color: #131A2D;
+    color: #D0C4AB;
+    padding: 15px;
 }
 
 #header {
     background-color: #fff;
     color: #000;
-}
-
-#banner {
-    margin-top: 15px;
+    border-bottom: solid 4px #D0C4AB;
+    margin: 0px 0px 15px 0px;
 }
