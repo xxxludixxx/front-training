@@ -1,0 +1,18 @@
+body {
+    background-color: #fff;
+    margin: 15px;
+    color: #000;
+}
+
+.container {
+    background-color: #131A2D;
+}
+
+#header {
+    background-color: #fff;
+    color: #000;
+}
+
+#banner {
+    margin-top: 15px;
+}
