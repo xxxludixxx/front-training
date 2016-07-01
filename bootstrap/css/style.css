@@ -1,5 +1,5 @@
 body {
-    background-color: #fff;
+    background-image: url("../bootstrap-prestructure_files/geometry2.png");
     margin: 15px;
     color: #000;
 }
@@ -11,7 +11,7 @@ body {
 }
 
 #header {
-    background-color: #fff;
+    /*background-color: #fff;*/
     color: #000;
     border-bottom: solid 4px #D0C4AB;
     margin: 0px 0px 15px 0px;
